@@ -9,8 +9,5 @@ def home(request):
     return render(request,'home.html',{'dests':dests})
 
 
-def p():
-    return 
-
 
 
